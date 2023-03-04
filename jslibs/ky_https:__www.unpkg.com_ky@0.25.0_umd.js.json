@@ -1,0 +1,13 @@
+{
+  "name": "ky",
+  "uidString": "ky_https://www.unpkg.com/ky@0.25.0/umd.js",
+  "accessor": [
+    "ky"
+  ],
+  "url": "https://www.unpkg.com/ky@0.25.0/umd.js",
+  "version": "0.25.0",
+  "defs": "{\"!name\":\"LIB/ky\",\"ky\":{\"!type\":\"fn()\",\"get\":{\"!type\":\"fn()\"},\"post\":{\"!type\":\"fn()\"},\"put\":{\"!type\":\"fn()\"},\"patch\":{\"!type\":\"fn()\"},\"head\":{\"!type\":\"fn()\"},\"delete\":{\"!type\":\"fn()\"},\"HTTPError\":{\"!type\":\"fn()\",\"prototype\":{\"toString\":{\"!type\":\"fn()\"},\"message\":{\"!type\":\"string\"},\"stack\":{\"!type\":\"string\"}}},\"TimeoutError\":{\"!type\":\"fn()\",\"prototype\":{\"toString\":{\"!type\":\"fn()\"},\"message\":{\"!type\":\"string\"},\"stack\":{\"!type\":\"string\"}}},\"create\":{\"!type\":\"fn()\"},\"extend\":{\"!type\":\"fn()\"},\"stop\":{\"!type\":\"?\"}}}",
+  "deleted": false,
+  "policies": [],
+  "userPermissions": []
+}

@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject2",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[[{\n  \"base\": \"appDTUXQvgkjIvceg\",\n  \"view\": \"viwVqE1mzfV0YfAd8\",\n  \"table\": \"tblJVXNvud7TgEpRo\",\n  \"fields\": [\"AI Gen Ideas - Keywords\"],\n  \"maxRecords\": 1,\n  \"useColumnId\": false\n}]]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page1_JSObject2",
+  "deleted": false,
+  "gitSyncId": "640116438a12fa7e07dea3ab_640383f08de4193f4c0f9c81"
+}
